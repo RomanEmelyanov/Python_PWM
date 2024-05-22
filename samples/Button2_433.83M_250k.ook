@@ -1,0 +1,148 @@
+;pulse data
+;version 1
+;timescale 1us
+;created 2024-05-20 10:03:10.726700-0400
+;received 2024-05-20 10:03:10.735251-0400
+;ook 13 pulses
+;freq1 433873344
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.2 dB
+;snr 28.1 dB
+;noise -28.4 dB
+360 660
+344 328
+668 344
+672 328
+664 344
+672 668
+336 672
+320 688
+320 344
+668 332
+668 668
+336 672
+324 10004
+;end
+;received 2024-05-20 10:03:10.739339-0400
+;ook 13 pulses
+;freq1 433872704
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.3 dB
+;snr 27.1 dB
+;noise -27.4 dB
+360 660
+340 328
+672 352
+660 332
+664 344
+668 672
+320 684
+324 668
+336 348
+668 328
+668 668
+340 672
+324 10004
+;end
+;received 2024-05-20 10:03:10.743011-0400
+;ook 13 pulses
+;freq1 433873376
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.2 dB
+;snr 27.9 dB
+;noise -28.1 dB
+360 664
+340 328
+668 348
+668 328
+664 348
+668 668
+324 684
+320 668
+340 348
+664 332
+668 672
+336 668
+324 10004
+;end
+;received 2024-05-20 10:03:10.747235-0400
+;ook 13 pulses
+;freq1 433873056
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.2 dB
+;snr 27.9 dB
+;noise -28.2 dB
+364 664
+324 344
+668 328
+668 348
+664 332
+664 688
+320 672
+336 668
+340 328
+672 340
+672 668
+340 668
+308 10004
+;end
+;received 2024-05-20 10:03:10.751624-0400
+;ook 13 pulses
+;freq1 433872096
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.3 dB
+;snr 29.2 dB
+;noise -29.5 dB
+364 660
+340 328
+668 332
+668 348
+660 332
+668 688
+320 668
+340 668
+336 332
+668 344
+668 672
+336 672
+308 10004
+;end
+;received 2024-05-20 10:03:10.754719-0400
+;ook 13 pulses
+;freq1 433873408
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.3 dB
+;snr 27.9 dB
+;noise -28.2 dB
+344 680
+324 348
+668 328
+668 344
+664 332
+668 668
+340 668
+336 672
+336 332
+668 344
+668 672
+320 684
+312 10004
+;end

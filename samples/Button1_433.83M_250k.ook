@@ -1,0 +1,244 @@
+;pulse data
+;version 1
+;timescale 1us
+;created 2024-05-20 10:02:45.439961-0400
+;received 2024-05-20 10:02:45.447327-0400
+;ook 13 pulses
+;freq1 433868736
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.2 dB
+;snr 27.0 dB
+;noise -27.2 dB
+356 344
+648 692
+316 352
+660 336
+660 352
+664 672
+332 680
+312 692
+316 348
+664 336
+664 672
+336 672
+320 10004
+;end
+;received 2024-05-20 10:02:45.449379-0400
+;ook 13 pulses
+;freq1 433869504
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.3 dB
+;snr 27.2 dB
+;noise -27.5 dB
+356 328
+668 676
+332 348
+664 336
+660 348
+664 672
+320 692
+316 672
+332 356
+660 336
+660 680
+328 676
+320 10004
+;end
+;received 2024-05-20 10:02:45.452414-0400
+;ook 13 pulses
+;freq1 433868800
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.2 dB
+;snr 27.3 dB
+;noise -27.5 dB
+356 328
+668 688
+316 352
+660 336
+660 348
+668 672
+336 672
+316 692
+316 352
+660 336
+664 672
+336 672
+320 10004
+;end
+;received 2024-05-20 10:02:45.456128-0400
+;ook 13 pulses
+;freq1 433868768
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.3 dB
+;snr 27.1 dB
+;noise -27.4 dB
+356 324
+668 676
+328 352
+648 352
+660 352
+660 676
+316 688
+320 676
+328 352
+648 348
+664 676
+332 676
+320 10004
+;end
+;received 2024-05-20 10:02:45.460365-0400
+;ook 13 pulses
+;freq1 433868512
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.2 dB
+;snr 27.1 dB
+;noise -27.4 dB
+356 328
+664 676
+332 356
+660 332
+660 348
+668 672
+316 692
+316 676
+332 352
+660 336
+664 672
+332 676
+320 10004
+;end
+;received 2024-05-20 10:02:45.463609-0400
+;ook 13 pulses
+;freq1 433868512
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.3 dB
+;snr 27.8 dB
+;noise -28.1 dB
+348 328
+668 676
+332 332
+664 352
+660 352
+644 692
+316 672
+336 672
+336 336
+660 348
+664 680
+328 676
+304 10004
+;end
+;received 2024-05-20 10:02:45.467369-0400
+;ook 13 pulses
+;freq1 433867520
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.3 dB
+;snr 27.9 dB
+;noise -28.2 dB
+356 340
+668 676
+316 348
+664 336
+672 336
+664 676
+332 676
+332 672
+316 352
+664 332
+664 676
+332 676
+320 10004
+;end
+;received 2024-05-20 10:02:45.472066-0400
+;ook 13 pulses
+;freq1 433868512
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.3 dB
+;snr 27.8 dB
+;noise -28.1 dB
+356 348
+648 688
+316 352
+664 332
+660 352
+664 672
+336 672
+316 692
+316 348
+668 332
+664 676
+328 676
+324 10004
+;end
+;received 2024-05-20 10:02:45.476270-0400
+;ook 13 pulses
+;freq1 433867424
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.2 dB
+;snr 28.8 dB
+;noise -29.0 dB
+356 348
+664 672
+316 356
+660 340
+656 352
+660 676
+332 676
+332 672
+320 348
+664 332
+664 676
+332 676
+316 10004
+;end
+;received 2024-05-20 10:02:45.480236-0400
+;ook 13 pulses
+;freq1 433867008
+;centerfreq 433830016 Hz
+;samplerate 250000 Hz
+;sampledepth 8 bits
+;range 84.3 dB
+;rssi -0.3 dB
+;snr 28.3 dB
+;noise -28.6 dB
+356 328
+664 676
+332 352
+648 348
+660 352
+660 676
+316 692
+316 672
+336 348
+648 352
+660 676
+332 676
+320 10004
+;end

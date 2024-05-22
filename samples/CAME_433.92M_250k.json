@@ -1,0 +1,4 @@
+{"time" : "2024-05-07 14:10:27.283800", "model" : "CameTOP", "count" : 1, "num_rows" : 1, "len" : 24, "data" : "d7923f", "mod" : "ASK", "freq" : 433.973, "rssi" : -0.190, "snr" : 13.446, "noise" : -13.636}
+{"time" : "2024-05-07 14:10:27.329388", "model" : "CameTOP", "count" : 1, "num_rows" : 1, "len" : 24, "data" : "d7923f", "mod" : "ASK", "freq" : 433.973, "rssi" : -0.176, "snr" : 13.656, "noise" : -13.832}
+{"time" : "2024-05-07 14:10:27.374980", "model" : "CameTOP", "count" : 1, "num_rows" : 1, "len" : 24, "data" : "d7923f", "mod" : "ASK", "freq" : 433.970, "rssi" : -0.183, "snr" : 13.719, "noise" : -13.902}
+{"time" : "2024-05-07 14:10:27.420564", "model" : "CameTOP", "count" : 1, "num_rows" : 1, "len" : 24, "data" : "d7923f", "mod" : "ASK", "freq" : 433.974, "rssi" : -0.228, "snr" : 13.573, "noise" : -13.800}
